@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning Network Security & Cloud Security.
 - 🌱 I’m currently practicing on TryHackMe and HackTheBox.
 - 💻 Skills: Linux, Python, Networking.
-- 📫 How to reach me: [Apna Email ya LinkedIn link
+- 📫 How to reach me: https://www.linkedin.com/in/muhammad-rehan-339784397?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 <!--
 **r70569319-sudo/r70569319-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
